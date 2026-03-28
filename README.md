@@ -1,9 +1,6 @@
 # 💫 About Me:
 👋 **Andrija Djordjevic**  
 🎓 Student @ **Epitech**  
-🗿 *"Je code donc je bug. Je debug donc je suis."*  
-⚠️ **Disclaimer**: My GitHub stats lie - the real magic happens in private repos where I bend reality with C++ templates.
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrija.djordjevic@epitech.eu) 
