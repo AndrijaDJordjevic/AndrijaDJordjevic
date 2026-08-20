@@ -4,9 +4,17 @@ Student at **Epitech**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrijaDJordjevic&theme=github_dark)<br/>
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrijaDJordjevic&theme=github-compact)<br/>
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrijaDJordjevic&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-light.svg">
+  <img alt="GitHub statistics — 2,513 contributions since 2023, 2,038 commits authored" src="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-light.svg">
+</picture>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrijaDJordjevic&theme=github-compact)
+
+> Most of my work lives in private and organization repositories, so the usual
+> public-only stat cards show almost none of it. The card above is generated from
+> the full picture — see [NUMBERS.md](NUMBERS.md) for how each figure is derived.
 
 ## 🎓 Epitech Projects
 
