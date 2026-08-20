@@ -4,9 +4,9 @@ Student at **Epitech**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrijaDJordjevic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AndrijaDJordjevic&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrijaDJordjevic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrijaDJordjevic&theme=github_dark)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=AndrijaDJordjevic&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrijaDJordjevic&theme=github_dark)
 
 ## 🎓 Epitech Projects
 
