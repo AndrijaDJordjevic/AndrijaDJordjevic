@@ -11,19 +11,19 @@ const path = require('path');
 const DATA = {
   name: 'Andrija Djordjevic',
   subtitle: 'Activity across every repository I work in — public, private and organizations',
-  hero: { value: 2513, label: 'contributions since 2023 — the large majority in private repositories' },
+  hero: { value: 3041, label: 'contributions since 2023 — the large majority in private repositories' },
   tiles: [
-    { value: '2,038', label: 'Commits authored' },
-    { value: '295',   label: 'Pull requests opened' },
-    { value: '106',   label: 'Issues opened' },
-    { value: '13',    label: 'Repositories active in' },
+    { value: '2,343', label: 'Commits authored' },
+    { value: '407',   label: 'Pull requests opened' },
+    { value: '130',   label: 'Issues opened' },
+    { value: '34',    label: 'Repositories active in' },
   ],
   // Ordinal only. Byte-share percentages are NOT published: GitHub's Linguist
   // counts every byte on a default branch regardless of author, so a percentage
   // would credit teammates' and vendored code. The ORDER is what survives.
   langsLabel: 'Languages I work in — most used first',
-  langs: ['Python', 'TypeScript', 'Go', 'JavaScript', 'HTML', 'CSS', 'C++', 'Vue'],
-  footer: 'Measured 21 Aug 2026 across 37+ reachable repositories · regenerate with scripts/gen-stats-card.js',
+  langs: ['Python', 'TypeScript', 'Go', 'JavaScript', 'HTML', 'CSS', 'Vue', 'Shell', 'Haskell', 'Rust'],
+  footer: 'Measured 12 Sep 2026 across 43+ reachable repositories · regenerate with scripts/gen-stats-card.js',
 };
 
 // GitHub Primer surfaces and ink, so the card sits native on a profile README.

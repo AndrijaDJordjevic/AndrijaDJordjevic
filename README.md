@@ -7,7 +7,7 @@ Student at **Epitech**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-light.svg">
-  <img alt="GitHub statistics — 2,513 contributions since 2023, 2,038 commits authored" src="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-light.svg">
+  <img alt="GitHub statistics — 3,041 contributions since 2023, 2,343 commits authored" src="https://raw.githubusercontent.com/AndrijaDJordjevic/AndrijaDJordjevic/main/assets/stats-light.svg">
 </picture>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrijaDJordjevic&theme=github-compact)
